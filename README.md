@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanay Verma
 - 👀 I’m interested in technology and coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning DSA & Java 
 - 📫 How to reach me: IG @tanay_verma11
 
 <!---
