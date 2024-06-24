@@ -1,9 +1,9 @@
-- 👋 Hola, I’m Tanay Verma
+- 👋 Namaste, I’m Tanay Verma
 - 👀 I’m interested in technology and coding
 - 🌱 I’m currently learning DSA & Java
 - 🖥️ Blender, Photoshop, Clo3d
 - ⚡ Fun fact: I'm a portrait artist too
-- 🏡 Based in India 
+- 🏡 From India 🇮🇳
  
 
 <!---
